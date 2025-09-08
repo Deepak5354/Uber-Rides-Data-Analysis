@@ -1,0 +1,5 @@
+pandas
+Matplotlib
+Numpy
+seaborn
+# filename Syntax  : .ipynb  -- for Jupyter Notebook.. 
